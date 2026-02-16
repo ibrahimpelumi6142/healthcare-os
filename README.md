@@ -103,8 +103,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Lasisi Ibrahim Pelumi**
 - Founder & Lead Engineer at Devloopr UK
 - GitHub: [@ibrahimpelumi6142](https://github.com/ibrahimpelumi6142)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Website: [devloopr.uk](https://devloopr.uk)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ibrahim-lasisi-ba6192130/)
+- Website: [devloopr.uk](https://devloopr.com)
 
 ## 🌟 Show Your Support
 

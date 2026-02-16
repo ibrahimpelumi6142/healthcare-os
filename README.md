@@ -175,6 +175,7 @@ Small clinics shouldn't pay $25K/year for software.
 ✅ Privacy-first
 
 Live demo: https://healthcare-os.vercel.app
+
 GitHub: https://github.com/ibrahimpelumi6142/healthcare-os
 
 #opensource #healthtech #nextjs
@@ -196,6 +197,7 @@ Built with Next.js 14, featuring:
 Perfect for small practices (1-10 providers) who need modern software without the enterprise price tag.
 
 Live demo: [link]
+
 GitHub: [link]
 
 #healthtech #opensource #innovation
@@ -214,6 +216,7 @@ License: MIT
 This is perfect for small practices (1-10 providers) who want modern software without vendor lock-in.
 
 Live demo: [link]
+
 GitHub: [link]
 
 Feedback welcome!

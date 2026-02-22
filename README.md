@@ -1,13 +1,12 @@
 # 🏥 HealthCare OS
 
-![Homepage](public/home-page.png)
-
-
 **Open-source practice management system for small healthcare providers**
 
 [![Live Demo](https://img.shields.io/badge/demo-live-success)](https://healthcare-os.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
+
+![Homepage](public/home-page.png)
 
 ## 🎯 Problem
 

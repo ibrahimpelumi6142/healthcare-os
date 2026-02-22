@@ -31,14 +31,6 @@
 ![Appointment Scheduling](screenshots/appointment-scheduling.png)
 *Smart booking system with calendar integration*
 
-### 💳 Insurance Claims
-![Insurance Claims](screenshots/insurance-claims.png)
-*Track and manage insurance claims efficiently*
-
-### 📈 Reports & Analytics
-![Reports & Analytics](screenshots/reports-analytics.png)
-*Revenue trends and performance metrics*
-
 ---
 
 ## 🎯 Problem

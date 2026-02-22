@@ -246,8 +246,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 - 🐙 **GitHub:** [@ibrahimpelumi6142](https://github.com/ibrahimpelumi6142)
 - 💼 **LinkedIn:** [Ibrahim Lasisi](https://www.linkedin.com/in/ibrahim-lasisi-ba6192130/)
-- 🌐 **Website:** [devloopr.com](https://devloopr.com)
-- 📧 **Email:** contact@devloopr.com
+- 📧 **Email:** ibrahimpelumi6142@gmail.com
 - 📍 **Location:** Sheffield, UK
 
 ### Background

@@ -141,7 +141,7 @@ git push origin main
 # Deploy automatically
 
 # Get live URL
-# https://your-app.vercel.app
+# https://healthcare-os.vercel.app
 ```
 
 ### Option 2: Self-Hosted
@@ -252,8 +252,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Lasisi Ibrahim Pelumi**
 
-Founder & Lead Software Engineer at [Devloopr Web Solution Ltd](https://devloopr.com)
-
 - 🐙 **GitHub:** [@ibrahimpelumi6142](https://github.com/ibrahimpelumi6142)
 - 💼 **LinkedIn:** [Ibrahim Lasisi](https://www.linkedin.com/in/ibrahim-lasisi-ba6192130/)
 - 🌐 **Website:** [devloopr.com](https://devloopr.com)
@@ -336,7 +334,6 @@ Community support via GitHub Issues. For commercial support, contact us at conta
 
 - 💬 **Issues:** [GitHub Issues](https://github.com/ibrahimpelumi6142/healthcare-os/issues)
 - 📧 **Email:** ibrahimpelumi6142@gmail.com
-- 🐦 **Twitter:** [@your_twitter](https://twitter.com/your_handle)
 - 💼 **LinkedIn:** [Ibrahim Lasisi](https://www.linkedin.com/in/ibrahim-lasisi-ba6192130/)
 
 ---

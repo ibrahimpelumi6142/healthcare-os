@@ -317,7 +317,7 @@ We're building guides for PostgreSQL and Supabase integration. Join our communit
 Absolutely! Fork the repo and modify it to your needs. MIT license allows full customization.
 
 ### Do you offer support?
-Community support via GitHub Issues. For commercial support, contact us at contact@devloopr.com
+Community support via GitHub Issues. For commercial support, contact us at ibrahimpelumi6142@gmail.com
 
 ---
 
